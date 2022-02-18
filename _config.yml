@@ -4,6 +4,9 @@ relative_links:
   enabled: true
   collections: true
 
+include:
+  - README.md
+  
 theme: jekyll-theme-architect
 title: Sherburne
 favicon: favicon.ico

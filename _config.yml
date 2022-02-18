@@ -1,3 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
 theme: jekyll-theme-architect
 title: Sherburne
 favicon: favicon.ico

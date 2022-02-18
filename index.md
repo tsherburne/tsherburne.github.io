@@ -1,6 +1,6 @@
 ## Tim's Website
 
-```mermaid
+```mermaid!
 flowchart LR
   A[Hard] -->|Label| B(Round)
   B --> C{Decision}

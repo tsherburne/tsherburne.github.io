@@ -1,11 +1,2 @@
 # tsherburne.github.io
-My Personal Website.
-
-
-```mermaid
-flowchart LR
-  A[Hard] -->|Label| B(Round)
-  B --> C{Decision}
-  C --> D[Result 1]
-  C --> E[Result 2]
-```
+Research Projects
